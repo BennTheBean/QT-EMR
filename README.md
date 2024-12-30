@@ -31,7 +31,7 @@ The EMR (Electronic Medical Records) System is a C++ application developed using
    ```bash
    git clone https://github.com/your-username/emr-system.git
    cd emr-system
-  ```
+   
 2. Open the project in Qt Creator:
   - Launch Qt Creator.
   - Click on Open Project and select the EMR.pro file.
