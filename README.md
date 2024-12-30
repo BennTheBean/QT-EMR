@@ -33,5 +33,5 @@ The EMR (Electronic Medical Records) System is a C++ application developed using
    cd emr-system
    
 2. Open the project in Qt Creator:
-  -- Launch Qt Creator.
-  -- Click on Open Project and select the EMR.pro file.
+   - Launch Qt Creator.
+   - Click on Open Project and select the EMR.pro file.
